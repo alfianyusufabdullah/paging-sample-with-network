@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Paging Sample with Network</string>
+    <string name="row_name">Nikah besok, Aamiin</string>
+    <string name="row_desc">Sebuah cerita dari seorang jomblo yang ingin segera menikah\nkira-kira begitu ceritanya, tamat</string>
+    <string name="content_decs_avatar">This image is a user avatar</string>
+    <string name="load_more_message">Memuat data lainnya...</string>
+    <string name="vote_count">12.212</string>
+    <string name="vote_average">6.6</string>
+</resources>
